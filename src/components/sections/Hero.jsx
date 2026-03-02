@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Background */}
       <div className="absolute inset-0">
         <img
-          src={img('1560343090-f0409e92791a', 1600, 85)}
+          src={img('325872', 1600, 85)}
           alt="Meridian watch"
           className="w-full h-full object-cover"
         />
